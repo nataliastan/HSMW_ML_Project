@@ -15,7 +15,11 @@ There is another set of data which is unlabeled. You have to classify it with yo
 
 On this project were working:
 Dmitrii Rudanov
+
 Natalia Stan
+
 Kateryna Kolesova
+
 Ekaterina Filonenko
+
 Carolin Tränkner
