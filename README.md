@@ -14,6 +14,7 @@ You should implement the algorithm assigned to you (SNPC) and train it on the gi
 There is another set of data which is unlabeled. You have to classify it with your trained result.
 
 On this project were working:
+
 Dmitrii Rudanov,
 
 Natalia Stan,
